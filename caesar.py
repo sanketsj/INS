@@ -1,3 +1,4 @@
+#for caesar cypher please input key in alphabatical srequence like"BCDEFGHIJKLMNOPQRSTUVWXYZA"
 def encryption(key,msg):
   mapkey={}
   temp=0
